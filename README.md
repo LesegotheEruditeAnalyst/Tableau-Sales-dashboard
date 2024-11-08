@@ -22,7 +22,8 @@ Project Components
 Data Sources: Information on where the data is sourced from.
 Tableau Dashboard: Contains  the  dashboard and data visualizations.
 
-Screenshots & Examples: Include images showcasing key components of the dashboard  and the visual layout.
+## Screenshots & Examples: 
+Include images showcasing key components of the dashboard  and the visual layout.
 
 ## This dashboard is ideal for:
 
